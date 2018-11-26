@@ -1,6 +1,6 @@
 {
   "name": "eslint-remove-line",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "access": "public",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "eslint --fix for unused variables",
