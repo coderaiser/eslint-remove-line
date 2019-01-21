@@ -20,7 +20,7 @@
     "lint:test": "eslint -c .eslintrc.test lib/**/*.spec.js",
     "lint": "redrun lint:*",
     "coverage": "nyc npm test",
-    "report": "nyc report --reporter=text-lcov | coveralls"
+    "report": "nyc report --reporter=text-lcov | coveralls || true"
   },
   "dependencies": {
     "chalk": "^2.4.1",
